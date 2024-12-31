@@ -22,8 +22,6 @@ MoodLens is an innovative solution designed to bridge the gap between students' 
 
 ---
 
----
-
 ## Installation
 1. Clone the repository:
    ```bash
@@ -37,15 +35,8 @@ MoodLens is an innovative solution designed to bridge the gap between students' 
    ```bash
    npm install  # For the frontend and backend
    ```
-4. Set up environment variables in a `.env` file:
-   ```env
-   DATABASE_URL=<Your-Database-URL>
-   CLOUD_API_KEY=<Your-Cloud-API-Key>
-   MQTT_BROKER=<Your-MQTT-Broker-URL>
-   ```
-5. Start the development server:
+4. Start the development server:
    ```bash
    npm run dev
    ```
-
 ---
