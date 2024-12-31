@@ -1,7 +1,8 @@
 # MoodLens
 
 ## Introduction
-MoodLens is an innovative solution designed to bridge the gap between students' emotional well-being and classroom engagement. By leveraging IoT-enabled wristwatches and AR-based visualizations, MoodLens empowers teachers with real-time emotional insights, enabling proactive and empathetic interventions.
+
+IoT-enabled wristwatches worn by students monitor physiological signals (e.g., heart rate, skin temperature, and movement patterns) to detect emotional states. Data is integrated with an AR-based classroom heatmap, providing teachers with anonymized, real-time insights into student well-being and engagement.
 
 ---
 
@@ -38,7 +39,7 @@ MoodLens is an innovative solution designed to bridge the gap between students' 
 
 3. Install dependencies:
    ```bash
-   npm install  # For the frontend and backend
+   npm install  
    ```
 4. Start the development server:
    ```bash
