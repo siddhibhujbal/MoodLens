@@ -23,7 +23,7 @@ IoT-enabled wristwatches worn by students monitor physiological signals (e.g., h
 
 ---
 
-## Installation
+## How to run:
 1. Clone the repository:
    ```bash
    git clone https://github.com/siddhibhujbal/MoodLens.git
