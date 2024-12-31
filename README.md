@@ -25,12 +25,17 @@ MoodLens is an innovative solution designed to bridge the gap between students' 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/moodlens.git
+   git clone https://github.com/siddhibhujbal/MoodLens.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd moodlens
+   cd MoodLens
    ```
+3. Navigate to the project Folder:
+   ```bash
+   cd project
+   ```
+
 3. Install dependencies:
    ```bash
    npm install  # For the frontend and backend
